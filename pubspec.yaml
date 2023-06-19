@@ -30,6 +30,8 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   table_calendar: ^3.0.9
+  flutter_local_notifications: ^6.0.0
+  timezone: ^0.7.0
   flutter:
     sdk: flutter
 
